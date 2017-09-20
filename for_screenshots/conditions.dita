@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="cxsplanjse" audience="java" xml:lang="en-us">
+  <title>Java considerations</title>
+  <shortdesc>ACME xPro requires <ph otherprops="v3 v4">Java 5,</ph> Java 6, or Java 7. In general, newer versions
+of Java have better functionality
+and performance.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm keyref="cxsplanjse|1|JavaSE" status="unchanged">Java SE</indexterm>
+        <indexterm keyref="cxsplanjse|2|JDK" status="unchanged">JDK</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname>WebSphere eXtreme Scale</prodname>
+        <vrmlist>
+          <vrm version="7" release="1"/>
+        </vrmlist>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <section><title>Supported versions</title>You can use ACME xPro with <ph otherprops="v3 v4">Java 5,</ph> Java 6<ph otherprops="v5">,
+and Java 7</ph>. The version
+that you use must be currently supported by the Java Runtime Environment (JRE) vendor. ACME xPro takes advantage
+of <ph otherprops="v3 v4">Java Version 5 ,</ph> Version
+6 <ph otherprops="v5">, and Version 7</ph> functionality as
+it becomes available. Generally, newer versions of the ACME xPro and Java have better performance
+and functionality.<p>For more information, <ph otherprops="v3">see <xref format="html" scope="external" href="http://www-01.ibm.com/support/docview.wss?rs=3023&amp;uid=swg27018828">Supported software</xref></ph><ph otherprops="v4">see <xref format="html" scope="external" href="http://www-01.ibm.com/support/docview.wss?uid=swg24032428">Supported software</xref></ph><ph otherprops="v6">see <xref format="html" scope="external" href="http://www-01.ibm.com/support/docview.wss?uid=swg24033719">Supported software</xref></ph>.</p><note type="note" otherprops="v3">Version 3 of ACME xPro requires Java 5.</note></section>
+  </conbody>
+  <?tm 1341955676 12?>
+</concept>

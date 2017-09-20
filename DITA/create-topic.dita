@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ys3_fsl_xt">
+    <title>Create a new topic</title>
+    <shortdesc>Create a new topic for each distinct but complete subject matter you need to write
+        about. For example, you would create a new topic to write a task about performing a
+        procedure that has  a set of steps.</shortdesc>
+    <taskbody>
+        <context>
+            <p>There are three main topic types to choose from: concept, task, and reference. See
+                    <xref href="topics_types.dita#concept_kws_x4l_3s"/> for more information.</p>
+        </context>
+        <steps>
+            <step id="step_xvb_zsl_xt">
+                <cmd>In the top menu, select <uicontrol>New</uicontrol>.</cmd>
+            </step>
+            <step id="step_zhn_1tl_xt">
+                <cmd>Select the topic type you need.</cmd>
+                <stepresult>A new topic opens for you with default, placeholder parts and text. The
+                        <uicontrol>Guidance</uicontrol> panel opens on the left. The toolbar
+                    displays above.</stepresult>
+            </step>
+            <step id="step_cvj_d5l_xt">
+                <cmd>Add your content, using the <uicontrol>Guidance</uicontrol> panel and toolbar
+                    options. </cmd>
+            </step>
+            <step id="step_dfk_25l_xt">
+                <cmd>Save or check in your topic.</cmd>
+                <info>Your options for saving your work depend on what integrations you are working
+                    with.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

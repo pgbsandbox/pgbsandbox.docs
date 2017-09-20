@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wvr_gzs_xt">
+ <title>File server</title>
+ <shortdesc>The <uicontrol>File Server</uicontrol> top menu may or may not be configured for your
+  deployment. It provides access to a simple remote file server. You may be using a different
+  integration for storing your topics.</shortdesc>
+ <conbody>
+  <section id="section_uhy_p1t_xt">
+   <title>Definition</title>
+   <p>A file server is any central storage mechanism to hold files or data from a group of people,
+    such as a department, division, or company.</p>
+  </section>
+  <section id="section_kqs_q1t_xt">
+   <title>How AuthorBridge uses file servers</title>
+   <p>Customers can leverage an existing corporate file server that may already be used to store
+    other documents or topics. You can connect AuthorBridge directly to that file server. </p>
+   <p>The advantage of using a filer server is that all content is saved to a common location, no
+    matter who creates it. People can access topics made by others as well as their own; no topic
+    ever gets lost on an individual's hard drive.</p>
+   <p>You can open, save, and save as from <uicontrol>File Server</uicontrol>.</p>
+   <p>Contact Stilo if you have a file server you want to connect to. </p>
+  </section>
+ </conbody>
+</concept>

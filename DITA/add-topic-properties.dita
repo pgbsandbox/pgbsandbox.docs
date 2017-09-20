@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zww_55v_yt">
+    <title>Add topic properties</title>
+    <shortdesc>You can add properties about each topic.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Topic properties add information about the topic so that it can be tracked or
+                leveraged by other systems. The important topic-level properties include the following:<dl>
+                    <dlentry>
+                        <dt>authors</dt>
+                        <dd>Anyone who contributed to the content of the topic. You can list as many
+                            as you want.</dd>
+                    </dlentry>
+                
+                    <dlentry>
+                        <dt>created</dt>
+                        <dd>Creation date is the date the topic was finished being drafted or was
+                            approved. Go live is the date it is meant to be published or become
+                            active. Expiry is the date by which the content is no longer correct.
+                        </dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>revised</dt>
+                        <dd>The date when the content was last updated, with associated optional go
+                            live and expiry dates. You can add as many revised dates as you need,
+                            one for each revision of the topic.</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>resourceid</dt>
+                        <dd>The unique identifier that can be leveraged by another system. For
+                            example, the resource ID can link a particular topic to a particular
+                            application page for context-sensitive help. </dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>source</dt>
+                        <dd>The document, expert, or system where you obtained the information
+                            written in this topic.</dd>
+                    </dlentry>
+                </dl></p>
+            <p>Always use just the metadata that applies to your content and that all authors have
+                agreed to use consistently.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In your topic, select the properties icon.</cmd>
+                <info><image href="prolog.png" id="image_nqf_yxv_yt" scale="75"/></info>
+            </step>
+            <step id="step_lrk_byv_yt">
+                <cmd>Fill out the properties you need, adding items when required.</cmd>
+            </step>
+            <step id="step_bff_dyv_yt">
+                <cmd>Select <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result id="result_qjb_2yv_yt">Your topic now includes information about the content, which
+            can be used to track content changes and leveraged by other systems.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ID-yi8qwu" xml:lang="en-us">
+  <title>Suppressing condition bars</title>
+  <shortdesc>If you don't want to see conditions in the editor pane, they can be hidden.</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Open the <uicontrol>conditions </uicontrol>sidebar from the <uicontrol>Toolbox</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Click the eyeball icon next to the word Legend.</cmd>
+        <info>
+          <image placement="break" href="condition-hide-bar.png"/>
+        </info>
+      </step>
+    </steps>
+    <result>
+      <p>The colored overline bars and right margin side bars will be hidden.</p>
+    </result>
+  </taskbody>
+</task>

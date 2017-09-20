@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vwb_qvs_xt">
+    <title>Create a bulleted list</title>
+    <shortdesc>A bulleted list is used to list items with no particular order.</shortdesc>
+    <taskbody>
+        <steps>
+            <step id="step_jvx_dws_xt">
+                <cmd>In a topic, put your cursor on an empty line or on the line with your first
+                    item.</cmd>
+            </step>
+            <step id="step_jqh_2ws_xt">
+                <cmd>Select <uicontrol>Insert/Remove Bulleted List</uicontrol>.</cmd>
+            </step>
+            <step conref="create-ol.dita#task_hkx_jgm_xt/step_pzf_2hm_xt"
+                conrefend="create-ol.dita#task_hkx_jgm_xt/step_ngl_1xs_xt" id="step_lxq_dxs_xt">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

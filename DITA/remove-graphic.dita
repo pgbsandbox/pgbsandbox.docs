@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rc5_3jt_xt">
+    <title>Remove an image</title>
+    <shortdesc>If your image is wrong or no longer applies, you can remove it from your
+        topic.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select your image in your topic.</cmd>
+            </step>
+            <step id="step_fxx_3kt_xt">
+                <cmd>Press <tt>Backspace</tt>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>AuthorBridge Help</title>
+  <topichead navtitle="AuthorBridge Help">
+   <topicref href="guidance.dita" type="concept" format="dita"/>
+   <topicref href="create-topic.dita" type="task" format="dita"/>
+   <topichead navtitle="Create content">
+    <topicref href="add-heading.dita" type="task" format="dita"/>
+    <topicref href="create-part.dita" type="task" format="dita"/>
+    <topicref href="remove-part.dita" type="task" format="dita"/>
+    <topicref href="caret-tricky.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Working with lists">
+    <topicref href="create-ol.dita" type="task" format="dita"/>
+    <topicref href="create-ul.dita" type="task" format="dita"/>
+    <topicref href="split-lists.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Images">
+    <topicref href="graphic-add.dita" type="task" format="dita"/>
+    <topicref href="remove-graphic.dita" type="task" format="dita"/>
+    <topicref href="change-properties-graphic.dita" type="task" format="dita"/>
+    <topicref href="add-figure.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Tables">
+    <topicref href="add-table.dita" type="task" format="dita"/>
+    <topicref href="delete-table.dita" type="task" format="dita"/>
+    <topicref href="merge-cells.dita" type="task" format="dita"/>
+    <topicref href="split-cells.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Notes">
+    <topicref href="notes.dita" type="concept" format="dita"/>
+    <topicref href="add-note.dita" type="task" format="dita"/>
+    <topicref href="change-note-type.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Links or Cross References">
+    <topicref href="link-topics.dita" type="task" format="dita"/>
+    <topicref href="link-website.dita" type="task" format="dita"/>
+    <topicref href="edit-links.dita" type="task" format="dita"/>
+    <topicref href="remove-link.dita" type="task" format="dita"/>
+    <topicref href="create-conref.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Conditions">
+     <topicref href="conditions-overview.dita" type="concept" format="dita"/>
+     <topicref href="conditions-inspecting.dita" type="task" format="dita"/>
+     <topicref href="conditions-applying.dita" type="task" format="dita"/>
+     <topicref href="conditions-creating.dita" type="task" format="dita"/>
+     <topicref href="conditions-filtering.dita" type="task" format="dita"/>
+     <topicref href="conditions-hide-bars.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Miscellaneous">
+    <topicref href="create-footnote.dita" type="task" format="dita"/>
+    <topicref href="remove-footnote.dita" type="task" format="dita"/>
+    <topicref href="file-server.dita" type="concept" format="dita"/>
+    <topicref href="non-rooted.dita" type="concept" format="dita"/>
+    <topicref href="review-comments.dita" type="task" format="dita"/>
+   </topichead>
+   <topichead navtitle="Advanced">
+    <topicref href="tag-words.dita" type="task" format="dita"/>
+    <topicref href="fixed-font.dita" type="task" format="dita"/>
+    <topicref href="add-topic-properties.dita" type="task" format="dita"/>
+    <topicref href="two-topics.dita" type="task" format="dita"/>
+    <topicref href="graphic-add-advanced.dita" type="task" format="dita"/>
+    <topicref href="choose-table-type.dita" type="task" format="dita"/>
+    <topicref href="print.dita" type="task" format="dita"/>
+    <topicref href="download.dita" type="task" format="dita"/>
+   </topichead>
+  </topichead>
+  <topichead navtitle="Introduction to Writing Topics">
+    <topicref href="topics_intro.dita" type="concept" format="dita"/>
+    <topicref href="topics_length.dita" type="concept" format="dita"/>
+    <topicref href="topics_types.dita" type="concept" format="dita"/>
+    <topicref href="concepts.dita" type="concept" format="dita"/>
+    <topicref href="tasks.dita" type="concept" format="dita"/>
+    <topicref href="references.dita" type="concept" format="dita"/>
+    <topicref href="what_not_to_do.dita" type="concept" format="dita"/>
+    <topicref href="maps.dita" type="concept" format="dita"/>
+    <topichead navtitle="Writing the Perfect Topic">
+      <topicref href="write_great_tasks.dita" type="task" format="dita"/>
+      <topicref href="write_goal_oriented_topics.dita" type="task" format="dita"/>
+      <topicref href="minimalism.dita" type="task" format="dita"/>
+      <topicref href="perfect-topic.dita" type="task" format="dita"/>
+      <topicref href="sections.dita" type="task" format="dita"/>
+      <topicref href="shortdescription.dita" type="task" format="dita"/>
+    </topichead>
+  </topichead>
+  <reltable>
+   <relheader>
+    <relcolspec linking="targetonly">
+     <title>Related information</title>
+    </relcolspec>
+    <relcolspec linking="sourceonly">
+     <title>Related information</title>
+    </relcolspec>
+   </relheader>
+   <relrow>
+    <relcell>
+     <topicref href="non-rooted.dita" type="concept" format="dita"/>
+    </relcell>
+    <relcell>
+     <topicref href="graphic-add.dita" type="task" format="dita"/>
+    </relcell>
+   </relrow>
+   <relrow>
+    <relcell>
+     <topicref href="topics_intro.dita" type="concept" format="dita"/>
+    </relcell>
+    <relcell>
+     <topicref href="create-topic.dita" type="task" format="dita"/>
+    </relcell>
+   </relrow>
+   <relrow>
+    <relcell>
+     <topicref href="graphic-add-advanced.dita" type="task" format="dita"/>
+    </relcell>
+    <relcell>
+     <topicref href="graphic-add.dita" type="task" format="dita"/>
+    </relcell>
+   </relrow>
+   <relrow>
+    <relcell>
+     <topicref href="non-rooted.dita" type="concept" format="dita"/>
+    </relcell>
+    <relcell>
+     <topicref href="download.dita" type="task" format="dita"/>
+    </relcell>
+   </relrow>
+  </reltable>
+</map>

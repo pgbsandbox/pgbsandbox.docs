@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rc2_5cw_xt">
+    <title>Add a note</title>
+    <shortdesc>Notes call out small parts of information to bring them to the attention of the
+        reader.</shortdesc>
+    <taskbody>
+        <context>
+            <p>There are many types of notes you can add. They can contain a little or a lot of
+                information.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In your topic, place your cursor where you want to insert your note.</cmd>
+            </step>
+            <step id="step_n2r_gwq_yt">
+                <cmd>From the toolbar, select <uicontrol>Note</uicontrol>.</cmd>
+                <stepresult>A note with no specific type is inserted.</stepresult>
+            </step>
+            <step id="step_qwd_jwq_yt">
+                <cmd>Select your note type.</cmd>
+            </step>
+            <step id="step_cgs_kwq_yt">
+                <cmd>Add your note content.</cmd>
+                <info> You can add multiple paragraphs to your note, including lists. </info>
+            </step>
+            <step id="step_w5z_cxq_yt">
+                <cmd>To end your note, create a blank line at the end of the note and then press
+                        <tt>Enter</tt> or use the down arrow key.</cmd>
+            </step>
+            <step id="step_h32_fxq_yt">
+                <cmd>To split your note into two notes, and optionally add content between them,
+                    create a blank line in the place you want to split it and press
+                    <tt>Enter</tt>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

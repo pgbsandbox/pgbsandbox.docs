@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_irf_wxv_xt">
+    <title>Split cells</title>
+    <shortdesc>When you have merged cells in a table, you can split them apart into separate
+        cells.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Place your cursor in the merged cell.</cmd>
+            </step>
+            <step id="step_gjq_zxv_xt">
+                <cmd>Right click, select <uicontrol>Cell</uicontrol> and then your split
+                    direction.</cmd>
+                <choices id="choices_ldw_3yv_xt">
+                    <choice>Split Cell Vertically: Split a cell into two cells side by
+                        side.</choice>
+                    <choice>Split Cell Horizontally: Split a cell into two cells, one above the
+                        other.</choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>

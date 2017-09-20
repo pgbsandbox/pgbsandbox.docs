@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_uwd_41m_xt">
+    <title>Add a new part</title>
+    <shortdesc>Your topic consists of parts that you assemble to create your entire topic. You can
+        see your parts, both the ones you have and the ones you may need, in your
+            <uicontrol>Guidance</uicontrol> panel. You can add as many parts as you need for your
+        content. </shortdesc>
+    <taskbody>
+        <context>
+            <p>You add parts to the authoring pane by selecting the parts offered by the guidance
+                panel that have not yet been used. You cannot add parts to the guidance panel.</p>
+            <p>The parts that are available differ depending on which topic type you are writing
+                with. The following instructions are specific to a task topic, but the general idea
+                is the same for all topic types.</p>
+            <p>In this task, we are going to add a <uicontrol>BEFORE YOU BEGIN</uicontrol> part to a
+                task topic.</p>
+        </context>
+        <steps>
+            <step id="step_cyh_4bm_xt">
+                <cmd>From the <uicontrol>Guidance</uicontrol> panel, select <uicontrol>BEFORE YOU
+                        BEGIN</uicontrol>. </cmd>
+                <info><note>There is hover help for each part in the <uicontrol>Guidance</uicontrol>
+                        panel. If you are not sure which part to add, hover over the ?.</note>If you do
+                    not already have a <uicontrol>BEFORE YOU BEGIN</uicontrol> part in your topic,
+                        <uicontrol>BEFORE YOU BEGIN</uicontrol> is listed with a plus. You can only
+                    add one of these parts.</info>
+                <stepresult>The new part with some hint text is added to your topic. That part in
+                        <uicontrol>Guidance</uicontrol> panel now has a check mark.</stepresult>
+            </step>
+            <step id="step_ejj_wbm_xt">
+                <cmd>In the authoring area, write content in the new part that you added.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

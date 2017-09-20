@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_esn_2ll_3s">
+ <title>How long is a topic?</title>
+ <shortdesc>A topic is just long enough to serve its purpose.</shortdesc>
+ <conbody>
+  <section>
+   <title>Rule of thumb: half a page</title>
+   <p>A topic, if you were to print it out, would be about a half page long. Sometimes, a topic is
+    slightly shorter or longer but half a page is an ideal length.</p>
+   <p>Each topic has a very specific purpose: to inform on a very specific subject. If your topic is
+    longer, then it likely isn't serving its purpose and your reader won't find it helpful.</p>
+   <p>Always err on the side of too short rather than too long.</p>
+  </section>
+  <section>
+   <title>How do you know a topic is too long?</title>
+   <p>Generally speaking, you can use these tips to gauge whether you have put too much information
+    in one topic and need to split it into multiple topics, each with a slightly different focus.
+    Any one of these rules means that your topic needs to be chunked a little bit more.<ul
+     id="ul_a3y_mll_3s">
+     <li>If you printed it out, the topic would be 3 or more pages.</li>
+     <li>Your topic has more than any of the following: <ul id="ul_j4y_vnl_3s">
+       <li>3 tables</li>
+       <li>3 graphics</li>
+       <li>12 steps</li>
+       <li>7 paragraphs</li>
+       <li>5 sections or subheadings</li>
+      </ul></li>
+    </ul></p>
+  </section>
+ </conbody>
+</concept>

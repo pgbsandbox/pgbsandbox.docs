@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mrv_3pr_yt">
+  <title>Tag words and phrases</title>
+  <shortdesc>It is a great idea to tag words and short phrases to classify them if they have
+        special meaning.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Formatting with superscript, subscript, bold, italic, or underline is not the same as
+                applying a tag. Applying a tag is almost always a better idea.</p>
+      <p>All other tags indicate the kind of content you are tagging. Choose the tag that
+                describes the type of content.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Highlight the content you want to tag.</cmd>
+      </step>
+      <step id="step_ech_p5r_yt">
+        <cmd>From the toolbar, select <uicontrol>Add Description</uicontrol>.</cmd>
+      </step>
+      <step id="step_lmj_qvr_yt">
+        <cmd>Select a tag that describes the content or formats it the way you need.</cmd>
+        <info>
+          <note type="tip">More than one tag can be applied at a time. If you do apply
+                        multiple tags, use the keyboard LEFT/RIGHT arrows to put your cursor in the
+                        place you need.</note>
+        </info>
+      </step>
+      <step id="step_bgq_gvr_yt">
+        <cmd>To modify or remove the classification, click the tagged content.</cmd>
+        <choices id="choices_egx_yvr_yt">
+          <choice>To modify, select the content you want to modify then select the tag button.</choice>
+          <choice>To remove, select the X.</choice>
+        </choices>
+      </step>
+    </steps>
+    <result>
+      <note type="tip">If you are tagging words or phrases as you type, use the right arrow on your keyboard to close the tag and continue authoring.</note>
+    </result>
+  </taskbody>
+</task>

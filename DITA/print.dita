@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rlx_tbw_yt">
+    <title>Create a PDF</title>
+    <shortdesc>Printing is very basic. One of your print options creates PDFs for you.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ng3_brw_yt">You must have Adobe<tm tmtype="reg"/> Reader<tm tmtype="reg"
+            /> installed to create PDFs.</prereq>
+        <context>
+            <p>Ordinarily, printing is done downstream by someone who has access to all the topics
+                and has implemented corporate-wide branding on all publications. You would only
+                print a single topic out if you were not sure about length or alignment or to send
+                it for an informal review. </p>
+            <p>Printing a topic from AuthorBridge approximates how your company might publish. Items
+                that might not be the same include font types, font sizes, margins, pagination,
+                logo, and headers and footers.</p>
+            <p>You might, for example, print a topic to PDF to send it for review.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Once your content or draft is complete, from <uicontrol>Local
+                    Files</uicontrol>, select <uicontrol>Print</uicontrol>.</cmd>
+            </step>
+            <step id="step_qzz_kqw_yt">
+                <cmd>Select your print destination as PDF.</cmd>
+                <info>Your print options depend on what you have set up locally on the machine you
+                    are using.</info>
+            </step>
+            <step id="step_qqn_qqw_yt">
+                <cmd>Specify another other print options you want.</cmd>
+                <info>We recommend enabling <uicontrol>Headers and footers</uicontrol> so that your
+                    printout includes a date stamp and pagination.</info>
+            </step>
+            <step id="step_cgf_wqw_yt">
+                <cmd>Select <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+            <step id="step_es1_xqw_yt">
+                <cmd>Save your PDF to a location on your computer.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_n3x_ynf_25">
+    <title>Add a graphic placeholder</title>
+    <shortdesc>You can add a placeholder for a graphic that you do not yet have access
+        to.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Sometimes, you know that a graphic needs to be inserted even if you do not currently
+                have the ability to browse for it, either because it does not yet exist or because
+                you are writing a non-rooted topic. You can insert a placeholder that will resolve
+                to a graphic with that file name at a later date.</p>
+        </context>
+        <steps>
+            <step conref="graphic-add.dita#task_mdl_dgt_xt/step_k1w_tgt_xt" id="step_k53_p4f_25">
+                <cmd/>
+            </step>
+            <step id="step_dt1_r4f_25">
+                <cmd>Select <uicontrol>No image</uicontrol> and type or paste the relative path and
+                    image name.</cmd>
+            </step>
+            <step conref="graphic-add.dita#task_mdl_dgt_xt/step_er1_tgv_xt"
+                conrefend="graphic-add.dita#task_mdl_dgt_xt/step_pfh_wgv_xt" id="step_dp2_q4f_25">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

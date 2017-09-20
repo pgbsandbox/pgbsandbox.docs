@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xgk_hqj_ks">
+    <title>Apply minimalism to your tasks</title>
+    <shortdesc>Minimalism, when applied to documentation, creates clean, usable
+        procedures.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The idea behind minimalism is that you provide the right information in the right
+                place and with the right format. Everything else is removed (sometimes to another
+                topic), leaving a clean, distilled topic that includes only useful but essential
+                information. Minimalist documentation is easy to follow, quick to read, and
+                amazingly helpful.</p>
+            <p>You can apply minimalism to all your topic types; however, when you're beginning,
+                it's easiest to apply minimalism to tasks.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Make sure your task is oriented on a user goal.</cmd>
+                <info>If you have content that is important but not directly related to the goal,
+                    put it in another topic.</info>
+            </step>
+            <step>
+                <cmd>Edit each step so that it contains only the command for the reader to perform. </cmd>
+                <info>Additional information that is pertinent to a particular step can be placed in
+                    the instruction section.</info>
+            </step>
+            <step>
+                <cmd>Put information that applies to the entire task in the appropriate
+                    section.</cmd>
+                <stepxmp>
+                    <dl>
+                        <dlentry>
+                            <dt>Before you begin</dt>
+                            <dd>Things the reader must do before they can even start the first
+                                step.</dd>
+                        </dlentry>
+                        <dlentry>
+                            <dt>Context</dt>
+                            <dd>Why the reader would perform the task. Usually, this is a
+                                description of the business goal you are writing for.</dd>
+                        </dlentry>
+                        <dlentry>
+                            <dt>Result</dt>
+                            <dd>The result of the entire task.</dd>
+                        </dlentry>
+                        <dlentry>
+                            <dt>Next steps</dt>
+                            <dd>What the reader should do after they have finished the task.</dd>
+                        </dlentry>
+                    </dl>
+                </stepxmp>
+            </step>
+            <step>
+                <cmd>Remove all extraneous information.</cmd>
+                <substeps id="substeps_m2s_dyj_ks">
+                    <substep>
+                        <cmd>Edit out words that do not add to the meaning of your content.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Put supporting content in concept or reference topics.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove any repetition; you only need to say something once.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Add recovery information.</cmd>
+                <info>When there is a step where readers are likely to run into a problem, add
+                    information on how they can recover in the instruction section.</info>
+            </step>
+            <step>
+                <cmd>Review the topic heading and introduction to ensure they are still accurate.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

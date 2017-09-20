@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_n14_q5q_yt">
+    <title>Link to a website</title>
+    <shortdesc>You can link to any website on the internet from your topics.</shortdesc>
+    <taskbody>
+        <steps>
+            <step id="step_ch3_myq_yt">
+                <cmd>In your browser, open the website page you want to link to.</cmd>
+            </step>
+            <step id="step_kxc_nyq_yt">
+                <cmd>Copy the URL from the address bar.</cmd>
+            </step>
+            <step id="step_rxl_cyf_25">
+                <cmd>In your topic, highlight the text you want to add a link to.</cmd>
+            </step>
+            <step id="step_sxl_cyf_25">
+                <cmd>From the toolbar, select <uicontrol>Insert Link</uicontrol>.</cmd>
+            </step>
+            <step id="step_trm_4yq_yt">
+                <cmd>Select <uicontrol>External</uicontrol>.</cmd>
+            </step>
+            <step id="step_jh3_pyq_yt">
+                <cmd>Paste your URL into the field.</cmd>
+            </step>
+            <step id="step_jrt_pyq_yt">
+                <cmd>In the format field, type <userinput>html</userinput>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

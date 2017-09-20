@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ayl_2nv_xt">
+  <title>Add a table</title>
+  <shortdesc>Tables are excellent way to organize and display complex
+	 information. 
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>In your topic, place your cursor on a new, empty line. 
+		  </cmd>
+      </step>
+      <step id="step_z2s_3nv_xt">
+        <cmd>From the toolbar, select 
+			 <uicontrol>Insert Table</uicontrol>. 
+		  </cmd>
+      </step>
+      <step id="step_szl_nnv_xt">
+        <cmd>Specify the number of rows and columns. 
+		  </cmd>
+        <info>You can adjust these later. 
+		  </info>
+      </step>
+      <step>
+        <cmd>Specify</cmd>
+        <choices>
+          <choice> whether the table will be  the full width of the page</choice>
+          <choice>where on the page it will be aligned</choice>
+          <choice>where a frame will be displayed</choice>
+          <choice>whether column and row separators will be displayed<p/></choice>
+        </choices>
+      </step>
+      <step id="step_jbm_44v_xt">
+        <cmd>(Optional) Right click anywhere in the table and select 
+			 <uicontrol>Choose table element</uicontrol>. 
+		  </cmd>
+        <info>This will allow you to specify which type of table you want to
+			 create. Choose from 
+			 <ul>
+            <li>general CALs table 
+				</li>
+            <li>choice table 
+				</li>
+            <li>simple table 
+				</li>
+          </ul><p>Which of these is available will depend upon the topic type you
+				are working in. The default will be a simple table. 
+			 </p></info>
+      </step>
+      <step>
+        <cmd>(Optional) Right click anywhere in the table and select <uicontrol>Table Options. </uicontrol></cmd>
+        <info>From here you can modify the display settings for your table.</info>
+      </step>
+      <step>
+        <cmd>(Optional) Right click anywhere on the table and select Row or Column to set a heading row or column</cmd>
+        <info>
+          <p/>
+        </info>
+      </step>
+    </steps>
+    <result id="result_jbf_m4v_xt">The table is inserted, with all header cells
+		in blue. 
+	 </result>
+  </taskbody>
+</task>

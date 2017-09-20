@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fzy_vmr_yt">
+    <title>Remove a link</title>
+    <shortdesc>If your link no longer applies, you can remove it.</shortdesc>
+    <taskbody>
+        <steps>
+            <step conref="edit-links.dita#task_gnc_xmr_yt/step1"
+                conrefend="edit-links.dita#task_gnc_xmr_yt/step_gfk_1nr_yt" id="step_wb4_f4r_yt">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Select the X.</cmd>
+                <info>
+                    <note type="tip"> Use the undo button to bring the link back if you deleted it
+                        in error.</note>
+                </info>
+                <stepresult>The text is no longer a link. The text remains and is ready to be
+                    removed.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kws_x4l_3s">
+ <title>Topic types</title>
+ <shortdesc>There are three main topic types: reference, concept, and task.</shortdesc>
+ <conbody>
+  <section>
+   <title>Why readers access documentation</title>
+   <p>Readers access the documentation for very specific purposes.<ul id="ul_kyj_zql_3s">
+     <li>To understand what something is, what it contains, or how it works.</li>
+     <li>To learn how to do something.</li>
+     <li>To look up detailed information quickly, such as measurements, requirements, or
+      commands.</li>
+    </ul></p>
+  </section>
+  <section>
+   <title>Topic types</title>
+   <p>To align with these purposes, there are three information types that guide you to provide the
+    right kind of information for the reader.</p>
+   <ul id="ul_zy5_wrl_3s">
+    <li>Concept: Paragraphs, lists, graphics, and subheadings that let you explain and show.</li>
+    <li>Task: Steps that let you explain how to do something or explain how a process occurs.</li>
+    <li>Reference: Tables, lists, and graphics that help you display detailed information in a quick
+     look-up format.</li>
+   </ul>
+  </section>
+  <section>
+   <title>How to pick the right topic type</title>
+   <p>When you are writing topics, consider your subject matter and then consider why your readers
+    would be accessing that particular information. <table frame="all" id="table_osy_jql_3s">
+     <tgroup cols="2">
+      <colspec colname="c1" colnum="1" colwidth="2.17*"/>
+      <colspec colname="c2" colnum="2" colwidth="1*"/>
+      <thead>
+       <row>
+        <entry>The goal of your topic</entry>
+        <entry>Topic type</entry>
+       </row>
+      </thead>
+      <tbody>
+       <row>
+        <entry>To explain what something is or what something contains.</entry>
+        <entry>Concept</entry>
+       </row>
+       <row>
+        <entry>To tell the reader how to do something or explain how a process occurs.</entry>
+        <entry>Task</entry>
+       </row>
+       <row>
+        <entry>To provide detailed, quick look-up information.</entry>
+        <entry>Reference</entry>
+       </row>
+      </tbody>
+     </tgroup>
+    </table></p>
+  </section>
+  <section>
+   <title>Generic topics</title>
+   <p>There is a generic topic type called <i>topic</i> that you can use if your content does not
+    easily fit the model for any of the other three topic types. A generic topic should still adhere
+    to the guideline for topic length.</p>
+  </section>
+ </conbody>
+</concept>

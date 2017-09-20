@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rpg_5kt_xt">
+    <title>Change the properties of an image</title>
+    <shortdesc>You can modify the size, placement, and alternate text of your image after you have
+        inserted it.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Sometimes you may forget to set the properties of your image or need to adjust them
+                after setting them initially. You can change those properties after you have
+                inserted the image.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select the image in your topic.</cmd>
+            </step>
+            <step id="step_qw2_4jv_xt">
+                <cmd>Select <uicontrol>Insert Image</uicontrol> from the toolbar or double-click the
+                    image.</cmd>
+                <stepresult>The images window displays, on the <uicontrol>Adjust</uicontrol>
+                    tab.</stepresult>
+            </step>
+            <step id="step_opy_xjv_xt">
+                <cmd>Add or modify any properties.</cmd>
+                <info>
+                    <ul id="ul_dxm_zjv_xt">
+                        <li id="li_exm_zjv_xt">Placement:<ul id="ul_dsv_zjv_xt">
+                                <li id="li_esv_zjv_xt">In-line: For images that are part of a
+                                    sentence.</li>
+                                <li id="li_egv_hkv_xt">Left: To left align an image. For images that
+                                    are on their own line.</li>
+                                <li id="li_ux2_jkv_xt">Center: To center the image on the page. For
+                                    images that are on their own line.</li>
+                                <li id="li_kcx_jkv_xt">Right: To right align an image. For images
+                                    that are on their own line.</li>
+                            </ul></li>
+                        <li id="li_bpq_blv_xt">Scale: <ul>
+                                <li id="li_d45_kkv_xt">Scale: The percent size of the original
+                                    image. 50% makes the image half the size of the source image
+                                    size.</li>
+                                <li id="li_lq1_nkv_xt">Width and height: Dimensions of the image.
+                                </li>
+                            </ul></li>
+                        <li id="li_d5n_rkv_xt">Alt text: Text that displays when the topic is
+                            published to HTML when someone hovers over the image and that a screen
+                            reader reads.</li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

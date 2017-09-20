@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_oxp_yvs_3s">
+ <title>Concepts</title>
+ <shortdesc>Concepts explain and show. Novice readers rely on concepts to gain a fundamental
+  understanding of your product.</shortdesc>
+ <conbody>
+  <section>
+   <title>Who and why</title>
+   <p>People who are new to your product will be the most likely consumers of concepts. These
+    novices need a foundational understanding of the subject matter and the underlying abstract
+    ideas. </p>
+   <p>Readers read a concept to try to understand <ul id="ul_jl3_yws_3s">
+     <li>what things are and what they do, and</li>
+     <li>how things work together.</li>
+    </ul></p>
+  </section>
+  <example>
+   <title>Examples</title>
+   <p>Some examples of concepts include:<ul id="ul_ln4_tdt_3s">
+     <li>A lengthy definition with an example</li>
+     <li>A diagram that illustrates infrastructure or architecture</li>
+     <li>A description of components of a product</li>
+     <li>An explanation of how components work together</li>
+    </ul></p>
+  </example>
+  <section>
+   <title>Keeping it conceptual</title>
+   <p>It is easy to put more into a concept than you should. As soon as you start adding <i>how
+          to</i> information into a concept, such as tips or what buttons to select, you know you've
+        strayed from the purpose of a concept. Anything that tells the reader <i>how to</i> do
+        something belongs in a task instead. </p>
+  </section>
+ </conbody>
+</concept>

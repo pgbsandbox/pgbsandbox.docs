@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sbf_vyv_xt">
+    <title>Choose a table type</title>
+    <shortdesc>Different table types are available for specific kinds of content.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>In your table, right click and select <uicontrol>Choose table
+                        element</uicontrol>.</cmd>
+                <stepresult>The available types display above the table content.</stepresult>
+            </step>
+            <step id="step_thr_rzv_xt">
+                <cmd>Select your table type.</cmd>
+                <choices id="choices_vlf_szv_xt">
+                    <choice>Definition list: A two-column table that displays terms in the left
+                        column and their definitions in the right column. No header.</choice>
+                    <choice>General CALS table: A flexible table used for most content.</choice>
+                    <choice>Simple table: A table that organizes and classifies items, like a parts
+                        list or contacts list. </choice>
+                    <choice>Choice table: Only available in tasks after a step, choice tables
+                        provide decision tree options and their descriptions, usually in an If ...
+                        (first column) Then ... (second column) format.</choice>
+                    <choice>Parameter list: A list of software parameters, commands, or options that
+                        each have a description and possibly some usage examples. </choice>
+                    <choice>Property list: A three-column table that </choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>

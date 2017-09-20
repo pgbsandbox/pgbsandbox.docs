@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ID-vvf95y" xml:lang="en-us">
+  <title>Conditions on text</title>
+  <shortdesc>Conditions can be applied to text . This allows the same content to be published with slight modifications for different audiences.</shortdesc>
+  <conbody>
+    <section>
+      <title>Conditions save you writing effort.</title>
+      <p>Conditions allow authors to save time by writing a given topic in a way that includes several different variants of the subject. For example, a topic describing a software API can include conditions specifying the version at which a given API was introduced. The documentation may then be published for all versions of the API from a single source.</p>
+      <p>A condition has a name and a value. For example, for the condition <i>audience beginner</i>, the condition name is audience and the value is beginner. The set of condition names is fixed and will be presented in a combo box when you create a new condition. Condition values are free form text strings that cannot include spaces. You should agree with your colleagues on what values should be used for different condition names.</p>
+    </section>
+    <section>
+      <title>Conditions Bars</title>
+      <p>Conditions are indicated in AuthorBridge with colored bars. Overline bars are used when conditions are applied to short phrases. Vertical bars are shown in the right margin for conditions that apply to block structures such as paragraphs, lists, notes, and tables.</p>
+      <p>Each color represents a unique combination of conditions applied at a single point.</p>
+      <p><image placement="break" align="center" href="condition-bars.png" scale="80"/></p>
+    </section>
+    <section>
+      <title>Conditions Sidebar</title>
+      <p>The <uicontrol>conditions</uicontrol> sidebar is available from the <uicontrol>Toolbox</uicontrol>. It is divided into three parts:</p>
+      <ul>
+        <li>
+          <p>The first part displays a summary of all applied conditions at the cursor position.</p>
+        </li>
+        <li>
+          <p>The second part, which is expandable, is used for adding and removing conditions.</p>
+        </li>
+        <li>
+          <p>The third part presents the color legend and allows you to filter the view of the topic.</p>
+        </li>
+      </ul>
+      <p><image placement="break" align="center" href="condition-sidebar.png" scale="90"/></p>
+    </section>
+  </conbody>
+</concept>

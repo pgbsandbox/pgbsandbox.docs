@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hkx_jgm_xt">
+  <title>Create a numbered list</title>
+  <shortdesc>Numbered lists are used to indicate a sequence or priority of items.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Numbered lists can be useful to indicate the steps in a  task or priority, sequence,
+                or order of items in any the topic types.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>In a topic, put your cursor on an empty line or on the line with your first
+                    item.</cmd>
+            </step>
+            <step id="step_x3f_qgm_xt">
+                <cmd>From the toolbar, select Insert/Remove Numbered List.</cmd>
+            </step>
+            <step id="step_pzf_2hm_xt">
+                <cmd>Add your items.</cmd>
+            </step>
+            <step id="step_rnl_2hm_xt">
+                <cmd>Press <tt>Enter</tt> to create the next list item.</cmd>
+            </step>
+            <step id="step_qyt_hhm_xt">
+                <cmd>To add more complex content to a list item like a second paragraph or a note,
+                    create a new list item and press <tt>Backspace</tt>.</cmd>
+        <stepresult>You now have a new paragraph that is part of the list item above. <note type="tip">You can press <tt>Enter</tt> to bring the bullet back if you
+                        removed it by accident.</note></stepresult>
+      </step>
+      <step id="step_jzn_5ff_25">
+        <cmd>Create sub-list items (a second level) by using the indent button or pressing
+                        <tt>tab</tt>.</cmd>
+        <info>
+          <note type="attention">If you are creating a step in a task topic, and you want to add a second paragraph to your instruction, you will need to make sure to remove the <uicontrol>Step Result</uicontrol> part from the guidance panel first. It can be added again after the second paragraph or substeps have been added</note>
+        </info>
+      </step>
+      <step id="step_ngl_1xs_xt">
+        <cmd>To end the list, press <tt>Enter</tt> on the last, empty list item.</cmd>
+      </step>
+    </steps>
+    <example>
+      <fig id="fig_olc_23m_xt">
+        <title>Numbered list with a note</title>
+        <image id="image_plc_23m_xt" href="ol.png"/>
+      </fig>
+    </example>
+  </taskbody>
+</task>

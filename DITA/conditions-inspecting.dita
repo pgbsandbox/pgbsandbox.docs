@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ID-ig9a6i" xml:lang="en-us">
+  <title>Inspecting applied conditions</title>
+  <shortdesc>AuthorBridge provides mechanisms that allow you to quickly discern what conditions have been applied and where.</shortdesc>
+  <taskbody>
+    <context>
+      <p>The active conditions at any given point are accumulated from their surrounding context. If a paragraph has applied conditions, and inside this paragraph a phrase has conditions, then all of these conditions apply to the text in the phrase. It is even possible to set conditions on an entire topic. AuthorBridge allows you to quickly find out what conditions are applied locally at any point of interest and all the conditions that have been set on the surrounding content.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Open the conditions sidebar from the <uicontrol>Toolbox</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Place your cursor at the point of interest in the editor pane.</cmd>
+      </step>
+      <stepsection>Accumulated conditions at point of interest:</stepsection>
+      <step>
+        <cmd>Look at the Condition Summary at the top of the sid<?ab-rcm-s {"id": 2, "version": 1.0, "initial": {"author": "Anonymous", "date": "2017-07-06T13:15:50.232Z", "content": "These are not steps. They are step results, or possibly task results "}}?><?ab-rcm-e {"id": 2, "version": 1.0}?>ebar to see the full set of accumulated conditions.</cmd>
+        <info>
+          <note type="tip">By hovering over the information provided in the condition summary, you can tell the extent of the text to which each condition applies.</note>
+        </info>
+      </step>
+      <stepsection>Condition set at point of interest:</stepsection>
+      <step>
+        <cmd>The legend at the bottom of the sidebar has a unique color for every unique combination of conditions applied locally at any given point in the topic . Find the matching entry in the legend to determine the conditions set at the point of interest.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

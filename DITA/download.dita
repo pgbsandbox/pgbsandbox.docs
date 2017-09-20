@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lz1_4sw_yt">
+    <title>Download a topic</title>
+    <shortdesc>Download a topic to save it locally.</shortdesc>
+    <taskbody>
+        <context id="context_rcy_s1g_25">You might download a topic because you are taking your
+            laptop out of the office and want to keep working without access to the
+                repository.<p>AuthorBridge does not offer local file save because it is
+                browser-based. Instead, you must download topics. </p></context>
+        <steps>
+            <step>
+                <cmd>From the toolbar, select <uicontrol>Download</uicontrol>.</cmd>
+            </step>
+            <step id="step_bjj_wsw_yt">
+                <cmd>Select a local folder and click <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

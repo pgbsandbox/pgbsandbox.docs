@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_i5l_fkq_yt">
+    <title>Link from one topic to another</title>
+    <shortdesc>Links are very distracting to readers. The key is to insert a link only when
+        absolutely required to keep them to a minimum. Then readers will know that it is not just
+        tangentially relevant information but really important information.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_cj4_ptq_yt">Both topics should be located on a file server or CMS before
+            you can create a link between them. It is possible to link between topics that are not
+            on a file server or CMS but it is not recommended.</prereq>
+        <context>
+            <p>A link from one topic to another lets you connect information from one topic to
+                another. This, in turns, lets a reader find associated information without
+            overloading any one particular topic with too much information. While you can link to any element of the target topic, it is generally best to link to the whole topic, or to something inside that has a title of caption, such as a table or figure. When doing so, link to the main structure, not to its title or caption.</p>
+        </context>
+        <steps>
+	    <stepsection>Copy the link target to you clipboard.</stepsection>
+            <step>
+                <cmd>Open the topic you want to create a link to.</cmd>
+                <info>This is the target topic. </info>
+            </step>
+            <step id="step_fqz_2tq_yt">
+                <cmd>Right-click on the content you want to link to. </cmd>
+            </step>
+            <step id="step_vbx_3tq_yt">
+                <cmd>Select <uicontrol>Choose Link Target</uicontrol> and then select the content you
+                    want to link to.</cmd>
+                <info>As you hover over the presented options, the background in the editor is adjusted to indicate the corresponding region, helping you to decide what you want to link to.</info>
+            </step>
+            <step id="step_wc3_xxf_25">
+               <cmd>Note whether or not the the dialog boxes informs you that you will need to save this topic.</cmd>
+	       <info>It is possible that an id attribute was inserted into the link target location, and this is why you may need to save this topic</info>
+            </step>
+            <step id="step_aq1_c5q_yt">
+                <cmd>Press the Copy.</cmd>
+            </step>
+            <step>
+                <cmd>Press the Close button.</cmd>
+            </step>
+            <step>
+                <cmd>Save this topic if you were requested to do so.</cmd>
+            </step>
+	    <stepsection>Paste the link target to create a link.</stepsection>
+            <step>
+                <cmd>Open the topic in which you want to place the link.</cmd>
+                <info>This is the source topic. It contains the clickable link.</info>
+            </step>
+            <step>
+	        <cmd>Create the link</cmd>
+                <choices>
+                    <choice>If you are linking to something with a title, place the cursor at the location you would like the link to be inserted and, without making a text selection, press <tt>CTRL + V</tt>.</choice>
+                    <choice>Otherwise it is best to type some appropriate link text, select this text, and then press <tt>CTRL + V</tt>.</choice>
+                </choices>
+            </step>
+        </steps>
+        <result id="result_fmw_yyq_yt">A link has been added to you topic. The link text is underlined.</result>
+    </taskbody>
+</task>

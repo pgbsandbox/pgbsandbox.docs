@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_uxz_wcw_xt">
+ <title>About notes</title>
+ <shortdesc>Notes are parts of your topic that call out information that needs to be
+  noticed.</shortdesc>
+ <conbody>
+  <section id="section_g45_ycw_xt">
+   <title>When to use</title>
+   <p>Notes can be useful when used only occasionally to call out specific information that you want
+    the reader to notice.</p>
+   <p>Overuse of notes, such as more than one in a row or more than one in a topic, can have the
+    opposite effect, so be careful to use them only when called for. </p>
+  </section>
+  <section id="section_gvz_y3q_yt">
+   <title>Large notes</title>
+   <p>Notes can contain more than one paragraph, list, or combination of those items.</p>
+  </section>
+  <section id="section_ost_2dw_xt">
+   <title>Note types</title>
+   <p>A variety of notes types are available to indicate <i>why</i> you are calling attention to a
+    particular piece of information. This helps categorize the information for the reader. Your
+    enterprise may not use all the types.<dl>
+     <dlentry>
+      <dt>Attention</dt>
+      <dd>Pay extra attention to this note.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Caution</dt>
+      <dd>Care is required when proceeding.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Danger</dt>
+      <dd>Be aware of this before doing anything else. Could result in injury or death.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Fastpath</dt>
+      <dd>A faster way to do the same thing.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Important</dt>
+      <dd>Important information that should not be missed. Often, writers decide to either use
+       attention or important, but not both.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Note</dt>
+      <dd>Information that should be noted but does not fall into any of the other categories.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Notice</dt>
+      <dd>A potential situation which, if not avoided, may result in an undesirable result or
+       state.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Restriction</dt>
+      <dd>Something you cannot do.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Remember</dt>
+      <dd>Do not forget to do this thing.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Tip</dt>
+      <dd>A helpful hint.</dd>
+     </dlentry>
+     <dlentry>
+      <dt>Warning</dt>
+      <dd>A potentially hazardous situation.</dd>
+     </dlentry>
+    </dl></p>
+  </section>
+ </conbody>
+</concept>

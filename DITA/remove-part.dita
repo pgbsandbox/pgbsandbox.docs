@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nj2_vcm_xt">
+    <title>Remove a part</title>
+    <shortdesc>Parts can be easily removed if they are not needed. Some parts, namely the title and
+        the body of the topic, are required and cannot be removed. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Find the part in the <uicontrol>Guidance</uicontrol> panel.</cmd>
+            </step>
+            <step id="step_uv2_cfm_xt">
+                <cmd>Remove any existing content in that part.</cmd>
+                <info>If you see a checkmark next to the part name, then you have content in that
+                    part that must be removed before you can remove the part itself.</info>
+            </step>
+            <step id="step_sjj_fdm_xt">
+                <cmd>From the <uicontrol>Guidance</uicontrol> panel, select the X for that
+                    part.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_remove_footnote">
+    <title>Remove a footnote</title>
+
+    <shortdesc>If your footnote no longer applies, you can remove it.</shortdesc>
+
+    <taskbody>
+        <context>Footnotes appear in two spots in your topics: in the main text of the body you have the superscripted and parenthesized footnote reference numbers, and at the bottom is the text of the footnotes. Footnotes are removed by getting rid of the superscripted number from the main text flow, the footnote text below will then be removed automatically. If you delete the text from the footnote at the bottom of the topic, you aren't actually getting rid of the footnote.</context>
+
+        <steps>
+            <step>
+                <cmd>Place you caret beside the footnote that is to be removed.</cmd>
+            </step>
+            <step>
+                <cmd>Press <tt>Backspace</tt> or <tt>Delete</tt>, as appropriate.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

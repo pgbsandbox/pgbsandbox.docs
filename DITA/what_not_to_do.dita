@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jfn_ww5_js">
+ <title>What not to do</title>
+ <shortdesc>Writing topics is not the traditional way of creating content, so knowing what not to do
+  is often just as helpful as knowing what you should be doing.</shortdesc>
+ <conbody>
+  <section>
+   <title>Guidelines for writing topics</title>
+   <p>
+    <table frame="all" id="table_ksw_2x5_js">
+     <tgroup cols="2">
+      <colspec colname="c1" colnum="1" colwidth="1*"/>
+      <colspec colname="c2" colnum="2" colwidth="1.61*"/>
+      <thead>
+       <row>
+        <entry>Avoid</entry>
+        <entry>Best practices</entry>
+       </row>
+      </thead>
+      <tbody>
+       <row>
+        <entry>Different kinds of information mixed together in one topic</entry>
+        <entry>Explanations belong in concepts, quick look-up details in references, and procedures
+         and processes in tasks. </entry>
+       </row>
+       <row>
+        <entry>Long topics</entry>
+        <entry>Topics are short and focused. If you are writing short topics, you end up with lots
+         of them, which is great. The rule is roughly a half page of content per topic.</entry>
+       </row>
+       <row>
+        <entry>Lots of cross references</entry>
+        <entry>Cross references create dependencies between files and really annoy readers who are
+         often faced with the dreaded M&#246;bius loop of links. If you have more than two
+         cross-references in a single topic, you have too many.</entry>
+       </row>
+       <row>
+        <entry>Focusing on product functionality</entry>
+        <entry>When you document the product's functionality (such as <i>Use the Print Feature</i>),
+         you are documenting what the product does instead of what the reader does with the product.
+         Instead, the user's business goal is a much more usable focus: <i>Create a PDF</i>, <i>Send
+          a file for review</i>, <i>Print a hard copy</i>, <i>Create black and white copies</i>, or
+          <i>Change printer cartridges</i>. </entry>
+       </row>
+       <row>
+        <entry>Procedural information in paragraph form</entry>
+        <entry>When instructing the reader, each action must be separated into its own step. That
+         way, each step is numbered individually for you; readers can then quickly identify that a
+         procedure exists and follow it easily.</entry>
+       </row>
+       <row>
+        <entry>Putting content just anywhere</entry>
+        <entry>The interface guides you to put the right content in the right sections. You are
+         using semantic markup in these topics to identify what kind of content exists. The better
+         you match the kind of content to the right section for that content, the better your
+         semantic markup. </entry>
+       </row>
+       <row>
+        <entry>Worrying about formatting</entry>
+        <entry>Formatting is an entirely separate process in the workflow. What you see on the
+         screen may not be exactly how it will be published. You can't control font types, colors,
+         pagination,  title pages, or margins; all of that is managed centrally based on your
+         markup. If you have the structures that make your content clear, such as lists, tables,
+         headings, graphics, steps, then you have all the format you need.</entry>
+       </row>
+      </tbody>
+     </tgroup>
+    </table>
+   </p>
+  </section>
+ </conbody>
+</concept>

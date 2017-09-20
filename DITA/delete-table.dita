@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_isd_t4v_xt">
+    <title>Delete a table</title>
+    <shortdesc>You can remove a table that is no longer needed.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Right-click anywhere on the table.</cmd>
+            </step>
+            <step id="step_dc2_2pv_xt">
+                <cmd>Select <uicontrol>Remove table</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

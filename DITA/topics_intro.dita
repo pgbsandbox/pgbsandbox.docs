@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tlv_jzk_3s">
+ <title>Introduction to topics</title>
+ <shortdesc>Each topic answers the reader's question: what do I need to know?</shortdesc>
+ <conbody>
+  <section>
+   <title>What is a topic?</title>
+   <p>A topic is a short chunk of content that focuses on a specific purpose. For example, each of
+    these subjects would be a separate topic:<ul id="ul_rs5_21l_3s">
+     <li>Product X overview</li>
+     <li>Product X system requirements</li>
+     <li>Customize Product X</li>
+     <li>Restart Product X </li>
+    </ul></p>
+   <p>A topic has a heading and some content. The content is up to you: subheadings, paragraphs,
+    lists, steps, tables, graphics. Use the objects that convey the information the topic focuses
+    on in the way that's most helpful for your readers. </p>
+   <p>Separating content into topics accomplishes several very important goals, both for the author
+    and for the reader. By splitting content into separate topics, you keep the content short,
+    concise, and focused.</p>
+  </section>
+  <section>
+   <title>Why write topics?</title>
+   <p>Topics have many benefits for both the authors and the readers. The two big benefits are:<ul
+     id="ul_fft_5zk_3s">
+     <li>Topics make it easier for readers to find and use the information they need because they
+      don't need to read long chapters of paragraphs.</li>
+     <li>Topics are easier to write than chapters because they are short, focused chunks.</li>
+    </ul></p>
+  </section>
+  <section>
+   <title>One topic per file</title>
+   <p>Each and every topic should be in its own separate file. This is because the underlying
+    architecture allows advanced technical writers to <ul id="ul_qyh_w3l_3s">
+     <li>assemble all the topics like building blocks to create complete documentation, and</li>
+     <li>reuse topics wherever needed in other pieces of documentation.</li>
+    </ul></p>
+   <p>To the reader, the document isn't chopped up; to them, it is a seamless document, with usable
+    sections of content, each with its own title.</p>
+  </section>
+ </conbody>
+</concept>

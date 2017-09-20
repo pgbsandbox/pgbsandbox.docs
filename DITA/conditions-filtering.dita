@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ID-a69ljp" xml:lang="en-us">
+  <title>Filtering text based on conditions</title>
+  <shortdesc>You can filter the text of your topic by turning conditions on and off.</shortdesc>
+  <taskbody>
+    <context>
+      <p>In order to verify that you have applied conditions correctly, you can filter your text by turning certain conditions on. This way you can see what the end result will look like for your readers. You can do this for various combinations of activated and deactivated conditions.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Open the <uicontrol>conditions </uicontrol>sidebar from the <uicontrol>Toolbox</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Click the eyeball icon next to a condition to toggle a condition name and value pair on and off.</cmd>
+        <info>
+          <image placement="break" href="condition-filter.png"/>
+        </info>
+      </step>
+    </steps>
+    <result>
+      <p>The editor pane will be filtered so that only text matching the activated conditions will remain.</p>
+    </result>
+  </taskbody>
+</task>

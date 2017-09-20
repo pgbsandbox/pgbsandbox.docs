@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ID-8oozw7" xml:lang="en-us">
+  <title>Creating a new condition</title>
+  <shortdesc>Only conditions that were found in the topic are shown in the sidebar. You can create and apply new ones to your topic.</shortdesc>
+  <taskbody>
+    <context>
+      <p>When applying a condition to text, you can choose from conditions that already exist in your topic. You can also create new conditions if you want to.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Open the <uicontrol>conditions </uicontrol>sidebar from the <uicontrol>Toolbox</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on <uicontrol>APPLY CONDITIONS</uicontrol> to reveal the panel which allows you to apply and remove conditions.</cmd>
+      </step>
+      <step>
+        <cmd>Click on <uicontrol>New Condition</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Select a condition name from the drop down list.</cmd>
+      </step>
+      <step>
+        <cmd>Type a value for this condition name in the box below.</cmd>
+        <info>
+          <note type="tip">You may not include white space in the value of a condition.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>Add</uicontrol>.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>The new condition will be added to available choices under <uicontrol>Select Conditions</uicontrol>, and the new condition will have a color assigned to it in the legend below.</p>
+    </result>
+  </taskbody>
+</task>

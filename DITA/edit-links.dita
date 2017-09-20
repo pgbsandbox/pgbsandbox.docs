@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gnc_xmr_yt">
+    <title>Change a link</title>
+    <shortdesc>You can change a link after you have created it.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you need to change the properties of a link, such as the location that you link
+                to, you can modify an existing link rather than  deleting the old one and creating a
+                new one.</p>
+        </context>
+        <steps>
+            <step id="step1">
+                <cmd>In your topic, click once anywhere on the link.</cmd>
+                <stepresult>The hover text saying <uicontrol>Link</uicontrol> displays.</stepresult>
+            </step>
+            <step id="step_gfk_1nr_yt">
+                <cmd>Select the <uicontrol>Link</uicontrol> that hovers.</cmd>
+            </step>
+            <step id="step_tpn_qnr_yt">
+                <cmd>Select the edit link button.</cmd>
+                <stepresult>The link properties display.<p>
+                        <dl>
+                            <dlentry>
+                                <dt>URL</dt>
+                                <dd>The link URL is the relative path to the topic file name and, optionally, a
+                                    part inside the topic.
+                                <p>Link syntax: /<varname>relative-path</varname>/<varname>file_name.dita</varname>#<varname>topic_id</varname>/<varname>part_id</varname></p></dd>
+                            </dlentry>
+                            <dlentry>
+                                <dt>Internal</dt>
+                                <dd>Link to another topic in the documentation set.</dd>
+                            </dlentry>
+                            <dlentry>
+                                <dt>External</dt>
+                                <dd>Link to something outside of the documentation set, like a
+                                    website.</dd>
+                            </dlentry>
+                            <dlentry>
+                                <dt>Scope</dt>
+                                <dd>Local: A topic that is in the same family as the topic you place
+                                    the link in.</dd>
+                                <dd>External: Link to a topic or site that is outside the family of
+                                    the topic you are placing the link in.</dd>
+                                <dd>Peer: Link to a topic that will eventually be in the same family
+                                    as the topic you are placing the link in.</dd>
+                            </dlentry>
+                            <dlentry>
+                                <dt>Format</dt>
+                                <dd>The format of the place you are linking to. If it is an internal
+                                    link, the value is <userinput>dita</userinput>. Other valid
+                                    values are <userinput>html</userinput> and
+                                        <userinput>pdf</userinput>.</dd>
+                            </dlentry>
+                            <dlentry>
+                                <dt>Type</dt>
+                                <dd>Used only for internal links. Indicate the topic type you are
+                                    linking to: concept, task, reference, or topic.</dd>
+                            </dlentry>
+                        </dl>
+                    </p></stepresult>
+            </step>
+            <step id="step_ypk_tnr_yt">
+                <cmd>Make your modifications.</cmd>
+            </step>
+            <step id="step_ynb_vnr_yt">
+                <cmd>Select <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_n4z_5vv_xt">
+    <title>Merge cells</title>
+    <shortdesc>You can merge cells in a table when needed.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>In your table, put your cursor in the cell that needs to merge.</cmd>
+            </step>
+            <step id="step_b2z_bwv_xt">
+                <cmd>Right click and select <uicontrol>Cell</uicontrol>.</cmd>
+            </step>
+            <step id="step_jdb_dwv_xt">
+                <cmd>Select <uicontrol>Merge Right</uicontrol> or <uicontrol>Merge
+                    Down</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dzk_2xs_xt">
+    <title>Split a list into two lists</title>
+    <shortdesc>You can easily split lists into two when needed.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Sometimes, you need to reorganize lists or explain a group of items differently from
+                another group. In that case, you have one list that should be split into two
+                different lists.</p>
+            <p><tt>Enter</tt> on a blank list item ends the list if you are on the last list item;
+                otherwise, it splits the list in two.</p>
+        </context>
+        <steps>
+            <step id="step_wbk_mxs_xt">
+                <cmd>Place your cursor at the beginning of the list item that will become the first
+                    item in a new list.</cmd>
+            </step>
+            <step id="step_xbk_mxs_xt">
+                <cmd>Press <tt>Enter</tt>.</cmd>
+                <stepresult>A new, empty list item is created.</stepresult>
+            </step>
+            <step id="step_tln_4xs_xt">
+                <cmd>Press <tt>Up arrow</tt> to move into the empty list item.</cmd>
+            </step>
+            <step id="step_tln_4xs_xt">
+                <cmd>Press <tt>Enter</tt> again.</cmd>
+            </step>
+        </steps>
+        <result id="result_ydd_rxs_xt">The empty list item disappears and the single list is now two
+            lists.</result>
+        <postreq id="postreq_u5g_sxs_xt">You can add text or a heading between the two
+            lists.</postreq>
+    </taskbody>
+</task>

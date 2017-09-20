@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cz3_hyq_ks">
+    <title>Use sections appropriately</title>
+    <shortdesc>Put the right kind of information in each section.</shortdesc>
+    <taskbody>
+        <context>
+            <p>One of the advantages of using AuthorBridge over a word processing tool like
+                Microsoft Word is that you are using sections to indicate the type of content
+                included therein. This is called semantic markup. </p>
+            <p>Semantic markup gives the content incredible versatility, especially during the
+                publishing process. Conversely, content that is in the wrong section (a section that
+                doesn't match the actual content) can often become a problem during publishing.</p>
+            <p>For example, you put things that a user needs to do before they begin a task in a
+                section called <i>Before you begin</i> rather than any other section. Inversely, you
+                would never put any other kind of information in the <i>Before you begin</i>
+                section, even if it looks like a good location for it.</p>
+            <p>Your publishing process might automatically add the word <i>Prerequisite</i> before
+                the text of any <i>Before you begin</i> section. If you have content that is
+                    <i>not</i> a prerequisite in <i>Before you begin</i>, then the result confuses
+                readers.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>As you write your topics, use the hover help for how to use the different
+                    sections.</cmd>
+                <info>The topic types themselves define the available sections to some degree. For
+                    example, you can only put steps in a task topic because that's where all
+                    procedural information should go.</info>
+            </step>
+            <step>
+                <cmd>Review your content for appropriate section use.</cmd>
+                <substeps id="substeps_tsl_w1r_ks">
+                    <substep>
+                        <cmd>Where the content doesn't match the purpose of the section, move it to
+                            an appropriate section.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Use the functionality on the left to add and remove sections.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Get a peer review.</cmd>
+                <info>Often another writer can quickly see if you have put information in the wrong
+                    section.</info>
+            </step>
+            <step>
+                <cmd>Update the content and sections, as needed.</cmd>
+                <info>In some instances, you re-write content to fit the section you are using; more
+                    often, you should create the type of section you need and move the content into
+                    it.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

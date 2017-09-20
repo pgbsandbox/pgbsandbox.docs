@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pdd_vgl_xt">
+  <title>Guidance panel</title>
+  <shortdesc>The <uicontrol>Guidance</uicontrol> panel along the left-hand side of the window guides
+  you through the content creation process.</shortdesc>
+  <conbody>
+    <section id="section_ybb_wpl_xt">
+      <title>Purpose</title>
+      <p>The <uicontrol>Guidance</uicontrol> panel shows you the parts of the topic that you might
+    already have or might want to add. It varies depending on the topic type. It guides you by
+    letting you see the parts that are required and optional for that topic type. More importantly,
+    it tells you the order in which those parts must appear. Authors must respect the order of the
+    parts, as they cannot be changed. This promotes consistency between topics.</p>
+      <note type="tip">Before you start writing, familiarize yourself with the parts of each topic type
+    to get familiar with the optional and required parts. You can plan your content better once you
+    know what the topics need to be complete. Only a few parts are required, like the title. If you like, you may remove
+    any parts you don't need, though leaving empty parts is perfectly fine.</note>
+    </section>
+    <section id="section_ifs_frl_xt">
+      <title>Functionality</title>
+      <p>The <uicontrol>Guidance</uicontrol> panel has functionality to further guide you in content
+     creation:<ul id="ul_v3w_krl_xt">
+          <li>Hover help: Each part has hover help that describes the part and tells you when you might
+      find it useful.</li>
+          <li>Add or remove parts, depending on the icon:<ul id="ul_gkb_tql_xt">
+              <li>Plus: Optional part that you can add.</li>
+              <li>X: Optional part that you are currently using but can removed. To be able to remove it, it
+        must have no content (text written in that part).</li>
+              <li id="li_kmj_nw2_25">*: A required part. For example, every step must have an instruction
+        part.</li>
+              <li>Check mark: You have content in that part, either by default when you created a new topic
+        or because you typed it in.</li>
+            </ul></li>
+          <li id="li_dxp_kv2_25">Tracking bars: Always know which part your cursor is in thanks to the
+      blue tracking bars, one in the authoring area and one in the guidance panel, indicating which
+      part you are in. <p><image placement="break" href="green-bars-matching.png" scale="60"/></p></li>
+          <li id="li_cqz_lz2_25">Click on a part in a navigation panel, such as the sections that you
+      create, to navigate right to that part of your topic in the authoring area.</li>
+        </ul></p>
+      <p><fig id="fig_qmz_tpl_xt">
+          <title>Guidance panel for a task topic</title>
+          <image placement="break" href="green-bars.png"/>
+        </fig></p>
+    </section>
+  </conbody>
+</concept>

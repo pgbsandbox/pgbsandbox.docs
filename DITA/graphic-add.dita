@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mdl_dgt_xt">
+    <title>Add an image</title>
+    <shortdesc>An image is any graphic or picture that may help illustrate your meaning.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_f14_w55_xt">You must have an image ready to add and know its
+            location.</prereq>
+        <context>
+            <p>Images can be a helpful way of showing rather than telling.</p>
+            <p>If your topic is non-rooted, only the <uicontrol>NO IMAGE</uicontrol> optional will be available in the <uicontrol>IMAGE</uicontrol> tab.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In your topic, put your cursor where you want to place the image.</cmd>
+            </step>
+            <step id="step_k1w_tgt_xt">
+                <cmd>From the toolbar, select <uicontrol>Insert Image</uicontrol>.</cmd>
+            </step>
+            <step id="step_vyf_2ht_xt">
+                <cmd>Browse to your image.</cmd>
+                <choices id="choices_esc_rt5_xt">
+                    <choice>If the image is on your local drive, choose <uicontrol>Browse
+                            local</uicontrol>.</choice>
+                    <choice>If the image is on your server, choose <uicontrol>Browse
+                            server</uicontrol>.</choice>
+                    <choice>If you have a non-rooted topic, choose <uicontrol>No image</uicontrol>
+                        and type or paste a path and file name.</choice>
+                </choices>
+            </step>
+            <step id="step_er1_tgv_xt">
+                <cmd>Select <uicontrol>Adjust</uicontrol> and set the properties of the image.</cmd>
+                <info>
+                    <ul conref="change-properties-graphic.dita#task_rpg_5kt_xt/ul_dxm_zjv_xt"
+                        id="ul_xg5_flv_xt">
+                        <li id="li_yg5_flv_xt"/>
+                    </ul>
+                </info>
+            </step>
+            <step id="step_pfh_wgv_xt">
+                <cmd>Click <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result id="result_xn5_pgv_xt">Your image displays in the topic (unless your topic is
+            non-rooted, in which case a small placeholder displays).</result>
+    </taskbody>
+</task>

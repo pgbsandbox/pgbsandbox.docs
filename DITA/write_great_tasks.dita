@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_k1w_p1k_ks">
+    <title>Write great tasks</title>
+    <shortdesc>The best documentation focuses on goal-oriented tasks. </shortdesc>
+    <taskbody>
+        <context>
+            <p>The primary reason a reader accesses documentation is to get help figuring out how to
+                use the product. The reader has a problem with the product, they spend a minute or
+                two trying to figure it out on their own, and then they try the documentation. If
+                the documentation provides answers, then it is useful and usable. The key is to
+                identify how your readers use your product so you can anticipate the help they
+                need.</p>
+        </context>
+        <steps id="steps_nkt_q1k_ks">
+            <step>
+                <cmd>Gather as much information about the product users as you can.</cmd>
+            </step>
+            <step>
+                <cmd>Considering product functionality, make a list of related business goals the
+                    reader might perform.</cmd>
+                <stepxmp>For example, if the product functionality is creating reports, then
+                    business goals could include:<ul id="ul_dy5_5nj_ks">
+                        <li>Create line-of-business reports</li>
+                        <li>Aggregate information in one report</li>
+                        <li>Export reports to Excel</li>
+                        <li>Create end-of-week reports</li>
+                        <li>Create automatic, nightly reports</li>
+                    </ul><p>Your business goal can and often does involve two or more pieces of
+                        product functionality working together. </p></stepxmp>
+            </step>
+            <step>
+                <cmd>Verify with the development team and other key stakeholders that the business
+                    goals are valid and likely.</cmd>
+                <info>This opens up a discussion that not only lets you refine your ideas but helps
+                    you identify even more business goals.</info>
+            </step>
+            <step>
+                <cmd>Prioritize the business goals by how likely they are and how difficult they are
+                    to perform.</cmd>
+                <stepresult>This gives you a list of business goals, organized by importance and
+                    usefulness. The topics at the top of this list are the ones you should
+                    definitely write.</stepresult>
+            </step>
+            <step>
+                <cmd>Following your prioritized list, write a task that walks the reader through
+                    exactly how to do accomplish that business goal.</cmd>
+                <info>Make sure a topic remains focused on that one business goal. Don't try to
+                    write for multiple goals at once.</info>
+            </step>
+            <step>
+                <cmd>Create supporting concept and reference topics for information that is not
+                    procedural but is related to the task.</cmd>
+                <info>For example, if an interface page has a series of options, put those options
+                    and their brief descriptions in a reference topic. If they need longer
+                    descriptions and explanations, write a concept that includes those as
+                    well.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

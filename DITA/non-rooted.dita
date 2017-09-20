@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_swd_bbt_xt">
+ <title>Non-rooted topics</title>
+ <shortdesc>A non-rooted topic is one that does not have a home. It has no associated storage
+    location in the repository. </shortdesc>
+ <conbody>
+  <section id="section_v3g_cbt_xt">
+   <title>How non-rooted topics are created</title>
+   <p>When you create a new topic in AuthorBridge or open one from a local , it is non-rooted
+    because AuthorBridge does not know where you intend for it to reside. It is temporarily residing
+    right inside the browser.</p>
+  </section>
+  <section id="section_kbs_dbt_xt">
+   <title>Drawbacks of non-rooted topics</title>
+   <p>When topics are non-rooted, you can create most of your content but you cannot do any of the
+     following:<ul id="ul_pdk_rdt_xt">
+     <li id="li_qdk_rdt_xt">create or paste links, and</li>
+     <li id="li_msq_rdt_xt">view or browse for an image.</li>
+    </ul></p>
+      <p>You have limited functionality for adding a graphic. You can add it by file name only.</p>
+  </section>
+  <section id="section_j2f_t2t_xt">
+   <title>How to fix the problem</title>
+   <p>We recommend integrating repository for storing topics. You root a topic by saving it to the
+        configured repository. Unfortunately, you currently have to re-open it from the repository
+        to then have the rooted-version.</p>
+      <p>Contact <xref href="http://www.stilo.com" format="html" scope="external">Stilo</xref> for
+        more information on your integration and repository options.</p>
+  </section>
+ </conbody>
+</concept>

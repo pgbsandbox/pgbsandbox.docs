@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ux4_fxm_ls">
+  <title>How it all comes together</title>
+  <shortdesc>Maps assemble topics for publishing.</shortdesc>
+  <conbody>
+    <section>
+      <title>Topics as Lego pieces</title>
+      <p>Your topics are very much like Lego pieces that can be assembled in whatever combination
+    required to create the final, published output needed.</p>
+      <p>The topics that you and others write are assembled using a map. An advanced writer uses a map
+    to pull together topics in a specific order and hierarchy and then publish to HTML, PDF, and any
+    other required output.</p>
+    </section>
+    <section>
+      <title>Publishing process</title>
+      <p>The publishing process uses the content with your markup (the sections you put your content
+    into) plus the underlying architecture to generate smart output, where formatting is applied
+    automatically and systematically.</p>
+      <p>For example, content in a Note section has text and an icon  added automatically,
+    without authors ever having to place it there.</p>
+      <fig frame="all">
+        <title>A published note</title>
+        <image id="image_ann_nzm_ls" align="center" href="tip.png" placement="inline"/>
+      </fig>
+      <p>Similarly, the writer never has to set the font type, size, or any other formatting details of
+    the content. The automated publishing reads what kind of section was used and formats all
+    sections of the same kind (all Notes, for example) the same way. </p>
+      <p>The automated publishing also automatically generates items that waste a lot of time in
+    traditional publishing, including<ul id="ul_pbf_f1n_ls">
+          <li>table of contents</li>
+          <li>volume, section, chapter, and page numbering</li>
+          <li>page breaks and margins</li>
+          <li>headers and footers</li>
+          <li>index</li>
+          <li>list of figures</li>
+          <li>list of tables</li>
+        </ul></p>
+      <p>The people in charge of publishing can turn on and off the objects they want generated. They
+    can also format them differently for different published files; for example, they can generate a
+    Table of Contents for PDFs but make it collapsible navigation tabs in HTML.</p>
+    </section>
+    <section>
+      <title>Benefits of automated formatting</title>
+      <p>The key benefits of automated formatting using semantic markup include<ul id="ul_yxv_yzm_ls">
+          <li>creating a consistent look and feel across all content and all writers</li>
+          <li>saving time and effort usually spent formatting, and</li>
+          <li>focusing on the content and the markup.</li>
+        </ul></p>
+      <p>This separation between content and formatting also means that the source content can be used
+    to generate many formats at once. The content you write in AuthorBridge could end up in PDF,
+    HTML5, ePub, iOS apps, Online Help, or any other formats your readers may need. The formatting
+    will look correct in all those outputs without you ever having to re-work the source
+    content.</p>
+    </section>
+  </conbody>
+</concept>

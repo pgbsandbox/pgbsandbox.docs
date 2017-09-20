@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_y2j_t3q_yt">
+    <title>Change note type</title>
+    <shortdesc>You can change a note from one type to another when required.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>In your topic, click once on the note type.</cmd>
+                <stepresult>The note type panel displays over the note with all the note type
+                    options.</stepresult>
+            </step>
+            <step id="step_j1k_pjq_yt">
+                <cmd>Select the new, appropriate note type.</cmd>
+                <stepresult>Your note type updates to your new choice.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

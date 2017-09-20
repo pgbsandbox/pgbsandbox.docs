@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xhk_fxr_yt">
+    <title>Control line breaks</title>
+    <shortdesc>Fixed font functionality preserves line breaks for content like code samples, where
+        the line breaks must be very specific.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Line breaks can be any of five types:<dl>
+                    <dlentry>
+                        <dt>Preformatted</dt>
+                        <dd>A generic tag for any content that needs preserved line breaks. Do not
+                            use if another tag describes the content better. Also changes the font
+                            to mono space.</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Code block</dt>
+                        <dd>Used for lines of program code, such as C++. </dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Screen console</dt>
+                        <dd>When you want to show exactly what a screen displays without creating a
+                            graphic of it. Instead, you can use text and force the lines to break
+                            where they do on the scene you are re-creating.</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Message block</dt>
+                        <dd>For displaying any multi-lined messages in text.  </dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Preserve line breaks</dt>
+                        <dd>A generic tag for any content that needs preserved line breaks. Do not
+                            use if another tag describes the content better. Does not change the
+                            font.</dd>
+                    </dlentry>
+                </dl></p>
+            <p>Always choose the type that most closely applies to the content in the fixed font
+                box.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place your cursor on an empty line, at the beginning of where you will place
+                    your fixed font content.</cmd>
+            </step>
+            <step id="step_sj3_pyr_yt">
+                <cmd>From the toolbar, select <uicontrol>Fixed Font</uicontrol>.</cmd>
+                <stepresult>A fixed font box displays.</stepresult>
+            </step>
+            <step id="step_gjr_xyr_yt">
+                <cmd>Select the FF at the top of the fixed font box. </cmd>
+            </step>
+            <step id="step_f2l_zyr_yt">
+                <cmd>Choose the fixed font option that applies to your type of content.</cmd>
+            </step>
+            <step id="step_alp_syr_yt">
+                <cmd>Add your fixed font content to the box.</cmd>
+                <stepresult>Your line breaks are preserved.</stepresult>
+            </step>
+            <step id="step_tmz_tyr_yt">
+                <cmd>Exit out of the fixed font box by entering <tt>Enter</tt> on the last blank
+                    line.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

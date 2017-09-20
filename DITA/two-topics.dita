@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zms_t1w_yt">
+    <title>Open two topics at once</title>
+    <shortdesc>You often need to open two or more topics at the same time and work on them
+        all.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open a new browser tab for each topic you want to work on at the same time.
+                </cmd>
+            </step>
+            <step id="step_dbq_w1w_yt">
+                <cmd>Switch between the topics by switching between the tabs.</cmd>
+            </step>
+            <step id="step_gty_y1w_yt">
+                <cmd>Copy and paste with your keyboard when required.</cmd>
+            </step>
+            <step id="step_bp3_y1w_yt">
+                <cmd>Save and close each topic independently. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

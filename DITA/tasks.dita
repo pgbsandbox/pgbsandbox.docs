@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rvr_ql4_js">
+ <title>Tasks</title>
+ <shortdesc>Tasks should form the core of your documentation.</shortdesc>
+ <conbody>
+  <section>
+   <title>Why and who</title>
+   <p>A task is any explanation of how to do something with the product. In most documentation,
+        tasks form the core of the documentation because they tell readers how to do something
+        specific with the product. All other topics support the tasks by explaining the underlying
+        ideas or providing additional information that is necessary to understanding what is in the
+        tasks themselves.</p>
+   <p>One of the primary reasons readers access the documentation is because they need help doing
+    something with your product. If you write clear, step-by-step tasks that tell them exactly how
+    to do the thing they want to do, your documentation becomes immensely useful and valuable. </p>
+  </section>
+  <example>
+   <title>Examples of tasks (procedures)</title>
+   <p>Some examples of tasks include:<ul id="ul_gx2_hm4_js">
+     <li>Setting up a profile</li>
+     <li>Logging in</li>
+     <li>Customizing the product</li>
+     <li>Generating reports</li>
+     <li>Assembling something</li>
+    </ul></p>
+  </example>
+  <section>
+   <title>Keeping it procedural</title>
+   <p>There are two rules of thumb to follow to keeping tasks focused on <i>how to</i>
+     information:<ul id="ul_wtq_1n4_js">
+     <li>If you are telling the reader how to do something, that information must be in a task (and
+      nowhere else).</li>
+     <li>A task should include the steps the reader should follow and just enough extra information
+            to be able to perform those steps; anything additional should go in the supporting
+            concepts or reference topics.  </li>
+    </ul></p>
+  </section>
+  <section>
+   <title>Processes</title>
+   <p>A secondary use of task topics is to explain a process, which is a description of how
+        something occurs. A process has steps too, but these are not steps that the reader
+        necessarily performs (although they may perform some of them). The actor, or the person who
+        performs the step, tends to change in a process.</p>
+  </section>
+  <example>
+   <title>Examples of processes</title>
+   <p>Some examples of processes include:<ul id="ul_c1p_ln4_js">
+     <li>How ticket submission works</li>
+     <li>How an eyeball sees light</li>
+     <li>How a company hires new employees</li>
+     <li>How service delivery occurs</li>
+    </ul></p>
+  </example>
+ </conbody>
+</concept>

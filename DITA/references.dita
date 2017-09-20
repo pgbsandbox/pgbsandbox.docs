@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ofp_y44_js">
+ <title>References</title>
+ <shortdesc>A reference topic provides technical information in a quick look-up format. Reference
+    topics are not lists of other resources.</shortdesc>
+ <conbody>
+  <section>
+   <title>Who and why</title>
+   <p>Your readers often need access to highly technical information that is extraneous or in
+        addition to a task but is nonetheless vital to their use of the product. These are often
+        advanced users who don't need an explanation of how things work or what to do, they just
+        need to get to the essential technical information that lets them keep using your
+        product.</p>
+   <p>Your organization of these facts in reference topics is vital to the usability of these
+        topics. Tables or lists are a good way to present reference information to the readers,
+        organized in a logical manner that allows the reader to look up information as quickly as
+        possible. The organizational technique you use (categorization, alphabetization, etc.) is
+        going to depend on the subject matter and the way the reader will need to access the
+        information.</p>
+   <p>The idea here is that the reader needs quick access to details. They will never read the
+        topic; instead, they will parse it for the information they need. By putting these facts in
+        a reference topic, separated from related information in concepts (explaining what) and
+        tasks (explaining how), readers can go right to the very specific details they need without
+        having to read related information.</p>
+  </section>
+  <section>
+   <title>Examples of references</title>
+   <p>Some examples of references include:<ul id="ul_txb_3p4_js">
+     <li>A table of system requirements, categorized by hardware, then software</li>
+     <li>An alphabetized list of commands and options, with syntax and usage</li>
+     <li>A table of parts and their specific sizes, weights, and other descriptors, organized by
+      ascending part number</li>
+          <li>A long code sample</li>
+    </ul></p>
+  </section>
+  <section>
+   <title>Keeping things referential</title>
+   <p>Reference topics support tasks by putting the detailed lists, options, and commands out of
+        tasks and in their own topics. Often, a reference topic is published near a task so that a
+        reader has direct and quick access to the technical information they may need to refer to
+        without making a task too long and onerous. Long tables and lists are good indicators of
+        reference-type information.</p>
+  </section>
+ </conbody>
+</concept>

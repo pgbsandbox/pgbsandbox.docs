@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ID-uoqgbl" xml:lang="en-us">
+  <title>Adding and removing conditions</title>
+  <shortdesc>The Apply Conditions portal on the Conditions sidebar allows you to add and remove conditions.</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Open the <uicontrol>conditions </uicontrol>sidebar from the <uicontrol>Toolbox</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on <uicontrol>APPLY CONDITIONS</uicontrol> to reveal the panel which allows you to apply and remove conditions.</cmd>
+      </step>
+      <step>
+        <cmd>Place your cursor at the point of interest in the editing pane to which the condition is to apply.</cmd>
+        <stepresult>The Apply To part of the panel is updated with buttons that reflect the structures encompassing the cursor. <note type="tip">You can hover over these buttons to see the extent of each corresponding structure in the editor pane. The background of the corresponding area will be made gray.</note></stepresult>
+      </step>
+      <step>
+        <cmd>Choose one of these buttons to specify what the condition will apply to.</cmd>
+      </step>
+      <step>
+        <cmd>Below Select Conditions, click the checkboxes to select the conditions that you would like to apply.</cmd>
+        <info>Adding a checkmark applies a condition, removing a checkmark removes a previously applied condition.<note type="tip">Sometimes you may see a gray checkmark under Select Conditions. This indicates that the condition has been applied at a higher structural level. So, while this condition isn't specifically set on the selected structure, it is accumulated there. You can still click this checkbox to explicitly set the condition on your selected structure as well, but there is usually little point in doing so.</note><p>You can also create a new condition if the existing ones are not sufficient. See <xref scope="local" href="conditions-creating.dita#ID-8oozw7"/>.</p></info>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>Apply</uicontrol>.</cmd>
+        <info>
+          <note type="tip">The gray background added to the editor pane may remain there until you collapse the <uicontrol>APPLY CONDITIONS</uicontrol> part of the <uicontrol>conditions</uicontrol> sidebar.</note>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

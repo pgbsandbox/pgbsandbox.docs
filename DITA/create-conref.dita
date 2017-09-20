@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_create_conref">
+    <title>Reuse content from another topic</title>
+
+    <shortdesc>Content reuse is a very helpful tool for writers. There is no need to copy common text between topics. It can be stored in one place and reused in many. If you ever need to update the text, you will only have to do it in one place.</shortdesc>
+
+    <taskbody>
+        <prereq>Both topics should be located on a file server or CMS before
+            you can create a link between them.</prereq>
+        <steps>
+	    <stepsection>Copy the content to reuse to your clipboard.</stepsection>
+            <step>
+                <cmd>Open the topic that contains the content you want to reuse.</cmd>
+            </step>
+            <step>
+                <cmd>Right-click on the content you want to reuse.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Choose Content to Reuse</uicontrol> and then select the content you want.</cmd>
+                <info>As you hover over the presented options, the background in the editor is adjusted to indicate the corresponding region, helping you to decide what you want to reuse.</info>
+                <stepresult>A dialog box will appear with further instructions.</stepresult>
+            </step>
+            <step>
+               <cmd>Note whether or not the the dialog boxes informs you that you will need to save this topic.</cmd>
+	       <info>It is possible that an id attribute was inserted into the link target location, and this is why you may need to save this topic</info>
+            </step>
+            <step id="step_aq1_c5q_yt">
+                <cmd>Press the Copy button.</cmd>
+            </step>
+            <step>
+                <cmd>Press the Close button.</cmd>
+            </step>
+            <step>
+                <cmd>Save this topic if you were requested to do so.</cmd>
+            </step>
+	    <stepsection>Paste the content to reuse</stepsection>
+            <step>
+                <cmd>Open the topic in which you want to reuse the content.</cmd>
+            </step>
+            <step>
+                <cmd>Put caret where you like and press <tt>CTRL + V</tt>. </cmd>
+            </step>
+        </steps>
+        <result>When the content is published, the reused text will automatically be pulled in. In AuthorBridge, the reused text will be read-only.</result>
+    </taskbody>
+</task>

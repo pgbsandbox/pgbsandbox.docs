@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_z2p_f52_25">
+  <title>Getting your cursor in just the right spot</title>
+  <shortdesc>It can sometimes by tricky to put your cursor in just the right spot to get the new
+        paragraph you want.</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Use your up and down arrows to get your cursor in exactly the right 
+                    location.</cmd>
+        <stepresult>A blank paragraph is created.  If you move away without typing in this
+                    blank paragraph, it disappears.</stepresult>
+      </step>
+    </steps>
+  </taskbody>
+</task>

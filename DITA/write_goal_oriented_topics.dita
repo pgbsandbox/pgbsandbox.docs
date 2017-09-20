@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bfk_rbb_ks">
+    <title>Write goal-oriented content</title>
+    <shortdesc>Content focused on the readers' goals is useful and usable.</shortdesc>
+    <taskbody>
+        <context>Write each topic to anticipate and fulfill a specific reader goal.</context>
+        <steps id="steps_k3l_51k_ks">
+            <step>
+                <cmd>Review any user analysis you might have access to.</cmd>
+                <info>Support, Sales, and other customer-facing departments often have information
+                    about the users that can be very helpful. Look for information that answers the
+                    questions: <ul id="ul_sc4_msq_ks">
+                        <li>What kind of users buy your product? </li>
+                        <li>What devices and operating systems are they using?</li>
+                        <li>What background knowledge are they likely to have?</li>
+                        <li>How do they use the product and the features? </li>
+                        <li>What confuses them?</li>
+                        <li>Where do they tend to run into problems?</li>
+                    </ul></info>
+            </step>
+            <step>
+                <cmd>Create user scenarios.</cmd>
+                <info>A user scenario is a step-by-step explanation of  how specific types of users
+                    would actually use product functionality. In the software industry, these are
+                    often added to Specifications documents. </info>
+            </step>
+            <step>
+                <cmd>Using your user scenarios, create a list of likely topics.</cmd>
+            </step>
+            <step>
+                <cmd>For each topic, decide on the purpose of the content. </cmd>
+                <info>Is it meant to inform? Does it instruct? Is it quick look-up information? </info>
+                <stepresult>The answers give you your topic types for each topic.</stepresult>
+            </step>
+            <step>
+                <cmd>Write your topics.</cmd>
+            </step>
+            <step>
+                <cmd>Review each topic for an appropriate focus.</cmd>
+                <info>Are you writing for how the reader will use the product, not what the product
+                    features are? What does the reader actually need to do?</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
