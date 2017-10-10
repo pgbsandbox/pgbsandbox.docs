@@ -16,7 +16,7 @@ else
     exit 1
 fi
 
-if [ ! -f $OUTPUT_DIR/js/edit.js ]; then
+if [ ! -f "$OUTPUT_DIR/js/edit.js" ]; then
     echo "$OUTPUT_DIR is not a valid output destination."
     exit 1
 else
