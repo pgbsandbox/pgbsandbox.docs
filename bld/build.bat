@@ -1,8 +1,14 @@
 @echo off
+setlocal EnableDelayedExpansion
+
 call :set_folder CURRENT_DIR .
+if ERRORLEVEL 1 exit /B 1
 call :set_folder SOURCE_DIR ..
+if ERRORLEVEL 1 exit /B 1
 call :set_folder OUTPUT_DIR ..\..\pgbsandbox.github.io
+if ERRORLEVEL 1 exit /B 1
 call :set_folder DITA_OTK_ROOT ..\..\..\dita-ot-2.5.3
+if ERRORLEVEL 1 exit /B 1
 
 set usage="USAGE: make.sh dev | rel"
 
@@ -52,7 +58,14 @@ GOTO :EOF
 
 
 :set_folder
-pushd %2
-set %1=%cd%
-popd
-exit /B
+if exist "%2" (
+   set f=%cd%
+   pushd %2
+   set %1=!cd!
+   popd
+   exit /B
+) else (
+   echo Invalid path: %2
+   exit /B 1
+)
+goto:eof
