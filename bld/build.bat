@@ -39,16 +39,16 @@ if exist "%OUTPUT_DIR%\js\edit.js" (
 
 rm -rf "%OUTPUT_DIR%"
 cd "%DITA_OTK_ROOT%"
-call bin\dita                                                                                  ^
+call bin\dita                                                                             ^
          --args.xhtml.contenttarget=contentwin                                            ^
          --args.xhtml.toc.xsl=plugins/com.stilo.authorbridge/xsl/map2xhtmltoc-wrapper.xsl ^
          --args.xhtml.toc=toc                                                             ^
          --args.css=AuthorBridge.css                                                      ^
-         --args.cssroot="%SOURCE_DIR%/build_files"                                         ^
+         --args.cssroot="%SOURCE_DIR%/build_files"                                        ^
          --args.copycss=yes                                                               ^
-         --args.input="%SOURCE_DIR%/DITA/AB.ditamap"                                       ^
-         --output.dir="%OUTPUT_DIR%"                                                       ^
-         --dita.temp.dir="%OUTPUT_DIR%/temp"                                               ^
+         --args.input="%SOURCE_DIR%/DITA/AB.ditamap"                                      ^
+         --output.dir="%OUTPUT_DIR%"                                                      ^
+         --dita.temp.dir="%OUTPUT_DIR%/temp"                                              ^
          --transtype=xhtml                                                                ^
          --args.indexshow=no
 
