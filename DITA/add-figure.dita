@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_lyd_wkt_xt">
-    <title>Add a figure</title>
-    <shortdesc>A figure is a container part that usually holds a graphic and a title.</shortdesc>
-    <taskbody>
-        <context>
-            <p>If you need to include some specific information about a graphic, such as a caption
+  <title>Add a figure123</title>
+  <shortdesc>A figure is a container part that usually holds a graphic and a title.</shortdesc>
+  <taskbody>
+    <context>
+      <p>If you need to include some specific information about a graphic, such as a caption
                 or a description, you can add a figure. The graphic is optional, so you can also add
                 a figure simply to group a small amount of content together under a title. For
                 example, you may want to add a title above an example of code block. </p>
-        </context>
-        <steps>
-            <step>
-                <cmd>From the toolbar, select <uicontrol>Figure</uicontrol>.</cmd>
-                <stepresult>A figure part is inserted, with sub-parts. The
+    </context>
+    <steps>
+      <step>
+        <cmd>From the toolbar, select <uicontrol>Figure</uicontrol>.</cmd>
+        <stepresult>A figure part is inserted, with sub-parts. The
                         <uicontrol>Guidance</uicontrol> panel displays all the parts.</stepresult>
-            </step>
-            <step id="step_kv3_1mv_xt">
-                <cmd>Use the <uicontrol>Guidance</uicontrol> panel to add the parts of the figure
+      </step>
+      <step id="step_kv3_1mv_xt">
+        <cmd>Use the <uicontrol>Guidance</uicontrol> panel to add the parts of the figure
                     that you want. </cmd>
-            </step>
-            <step id="step_k5z_bmv_xt">
-                <cmd>(Optional) Select <uicontrol>Insert Image</uicontrol> or add another part that
+      </step>
+      <step id="step_k5z_bmv_xt">
+        <cmd>(Optional) Select <uicontrol>Insert Image</uicontrol> or add another part that
                     you want.</cmd>
-                <info>An image is normally added to a figure but is optional. You could also add a
+        <info>An image is normally added to a figure but is optional. You could also add a
                     code block or some other chunk of information that needs to be grouped together
                     under a title.</info>
-            </step>
-        </steps>
-    </taskbody>
+      </step>
+    </steps>
+  </taskbody>
 </task>
